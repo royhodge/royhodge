@@ -22,9 +22,6 @@
 
 <br /><br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=royhodge&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-roy-hodge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshgoel05/)
-![Gmail Badge](https://img.shields.io/badge/-royhodge830-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshgoel05@gmail.com)
-![Instagram Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_d_specialist/)
-![Website Badge](https://img.shields.io/badge/-royhodge.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshgoel.me)
+![Gmail Badge](https://img.shields.io/badge/-royhodge830-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:royhodge830@gmail.com)
+![Website Badge](https://img.shields.io/badge/-royhodge.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://royhodge.github.io)
 ![Twitter Badge](https://img.shields.io/badge/-@aseriousgogetta-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aseriousgogetta)
