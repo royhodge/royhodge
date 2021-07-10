@@ -2,7 +2,7 @@
 ## Hi there 👋
 ##### You know my name! Isnt' it? So, yeah. I'm currently building the next big name. Insolvers. TypeScript and JavaScript is the way to seduce me out. If you have been into open source, yeah! we match the same intrest! SUPER LIKE! Ding!!!!!!!!
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshgoel05&count_private=true&show_icons=true&theme=dark)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=royhodge&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
