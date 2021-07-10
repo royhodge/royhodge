@@ -1,8 +1,8 @@
 
 ## Hi there 👋
-##### You know my name! Isnt' it? So, yeah. I'm currently building the next big name. Insolvers. TypeScript and JavaScript is the way to seduce me out. If you have been into open source, yeah! we match the same intrest! SUPER LIKE! Ding!!!!!!!!
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=royhodge&count_private=true&show_icons=true&theme=dark)
+
+![Roy's github stats](https://github-readme-stats.vercel.app/api?username=royhodge&count_private=true&show_icons=true&theme=dark)
 
 ### Languages and Tools:
 
@@ -22,9 +22,9 @@
 
 <br /><br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshgoel05&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-harshgoel05-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshgoel05/)
-![Gmail Badge](https://img.shields.io/badge/-harshgoel05-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshgoel05@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=royhodge&color=brightgreen)
+![Linkedin Badge](https://img.shields.io/badge/-roy-hodge-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshgoel05/)
+![Gmail Badge](https://img.shields.io/badge/-royhodge830-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harshgoel05@gmail.com)
 ![Instagram Badge](https://img.shields.io/badge/-@_d_specialist-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_d_specialist/)
-![Website Badge](https://img.shields.io/badge/-harshgoel.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshgoel.me)
-![Twitter Badge](https://img.shields.io/badge/-@harshgoel05-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshgoel05)
+![Website Badge](https://img.shields.io/badge/-royhodge.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshgoel.me)
+![Twitter Badge](https://img.shields.io/badge/-@aseriousgogetta-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aseriousgogetta)
